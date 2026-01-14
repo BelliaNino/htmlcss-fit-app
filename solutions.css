@@ -45,6 +45,14 @@ body {
 	text-align: center;
 }
 
+/*hover grid*/
+.stats-grid:hover {
+    transform: translateY(-5px);
+    box-shadow: 5px 5px 15px rgba(44, 44, 44, 0.545);
+    transition: all 0.5s;
+    
+}
+
 .stat-number {
 	font-size: 2.5rem;
 	font-weight: bold;
