@@ -1,25 +1,25 @@
 ### RICHIESTE DA COMPLETARE:
-1. 🔥 Icona fuoco nella prima stat card
+V.1. 🔥 Icona fuoco nella prima stat card
 
-Aggiungere l'emoji "🔥" sopra il numero nella prima carta delle statistiche (quella delle calorie)
+V.Aggiungere l'emoji "🔥" sopra il numero nella prima carta delle statistiche (quella delle calorie)
 
-2. 🌟 Evidenziare la terza stat card
+V.2. 🌟 Evidenziare la terza stat card
 
-Cambiare lo sfondo della terza carta statistiche (minuti di allenamento) con un gradiente blu-viola (non è necessario che sia identica allo screenshot di soluzione) e testo bianco
+V.Cambiare lo sfondo della terza carta statistiche (minuti di allenamento) con un gradiente blu-viola (non è necessario che sia identica allo screenshot di soluzione) e testo bianco
 
-3. ✨ Effetto hover sulle stat cards
+V.3. ✨ Effetto hover sulle stat cards
 
 Quando si passa il mouse sopra una qualsiasi carta statistiche, deve sollevarsi di 5px e aumentare l'ombra
 
-4. 📌 Evidenziare il secondo piano allenamento
+V.4. 📌 Evidenziare il secondo piano allenamento
 
 Aggiungere un bordo arancione a sinistra (5px) e Cambiare lo sfondo in un giallo molto chiaro al secondo workout plan (Forza e Resistenza)
 
-5. 🟢 Bordi verdi per primo e ultimo esercizio
+V.5. 🟢 Bordi verdi per primo e ultimo esercizio
 
 Il primo e ultimo esercizio nella lista devono avere il bordo sinistro verde e sfondo verde molto chiaro
 
-6. ⚡ Icona fulmine negli esercizi pari
+V.6. ⚡ Icona fulmine negli esercizi pari
 
 Aggiungere l'emoji "⚡" all'inizio del nome degli esercizi in posizione pari (2° e 4°)
 
@@ -28,7 +28,7 @@ Aggiungere l'emoji "⚡" all'inizio del nome degli esercizi in posizione pari (2
 Quando un campo input o select riceve il focus, deve avere bordo blu e ombra blu
 Aggiungere una transizione fluida per l'effetto
 
-9. 🔘 Miglioramenti al button
+V.9. 🔘 Miglioramenti al button
 
 Il button "Salva Obiettivi" deve sollevarsi di 2px quando ci passi sopra il mouse
 Cambiare anche il colore di sfondo e Aggiungere un'ombra blu
